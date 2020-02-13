@@ -5,7 +5,6 @@ email: your-email@domain.com
 description: A lovely wonderful blog
 twitter_username: jekyllrb
 github_username: cheeluoqinger
-
+theme: minima
 #Build settings
 markdown: kramdown
-theme：minima
